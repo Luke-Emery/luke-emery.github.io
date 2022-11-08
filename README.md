@@ -13,6 +13,7 @@
 - [Prototype Hinge Demonstration](https://github.com/Luke-Emery/luke-emery.github.io/blob/main/README.md#prototype-hinge-demonstration): Information about using markdown to display STL files
 - [Get in Touch!](https://github.com/Luke-Emery/luke-emery.github.io/blob/main/README.md#get-in-touch): Contact information
 - [To Do](https://github.com/Luke-Emery/luke-emery.github.io/blob/main/README.md#to-do): Task list
+- [Weeks So Far](https://github.com/Luke-Emery/luke-emery.github.io/blob/main/README.md#weeks-so-far): Timetable
  
 ## Hello World
 I am Luke Emery, and I am the module leader for Robotic Modelling and Drone Skin Design (COMP60019).
