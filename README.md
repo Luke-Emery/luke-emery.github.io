@@ -11,7 +11,7 @@
 ## Index
 - [Hello World](https://github.com/Luke-Emery/luke-emery.github.io/blob/main/README.md#hello-world): Introduction
 - [Prototype Hinge Demonstration](https://github.com/Luke-Emery/luke-emery.github.io/blob/main/README.md#prototype-hinge-demonstration): Information about using markdown to display STL files
-- [Get in Touch!](https://github.com/Luke-Emery/luke-emery.github.io/blob/main/README.md#get-in-touch)): Contact information
+- [Get in Touch!](https://github.com/Luke-Emery/luke-emery.github.io/blob/main/README.md#get-in-touch): Contact information
 
  
 ## Hello World
