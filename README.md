@@ -6,12 +6,12 @@
 ![Robotic Modelling and Drone Skin Design banner image](/assets/images/BB_Banner_RMaDSD@4x.png)
 
 # Robotic Modelling and Drone Skin Design (RMaDSD)
- Example repository and GitHub Pages for RMaDSD at Staffordshire University
+ Example repository and GitHub Pages for RMaDSD at Staffordshire University. The website contained within this repository can be found at: https://luke-emery.github.io
  
 ## Index
 - [Hello World](https://github.com/Luke-Emery/luke-emery.github.io/edit/main/README.md#hello-world): Introduction
 - [Prototype Hinge Demonstration](https://github.com/Luke-Emery/luke-emery.github.io/blob/main/README.md#prototype-hinge-demonstration): Information about using markdown to display STL files
-- Get in Touch: Contact information
+- [Get in Touch!](https://github.com/Luke-Emery/luke-emery.github.io/edit/main/README.md#get-in-touch): Contact information
 
  
 ## Hello World
@@ -16666,7 +16666,7 @@ endsolid ShowerScreenHinge_NoGuides
 The above design, shown in the embedded [GitHub Markdown STL viewer](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams#creating-stl-3d-models), is a prototype hinge design intended for production using the Fused Filament Fabrication (FFF) method of 3D printing.
 Provided as an example file, this demo shows how the embedded viewer can be combined with other content such as a narrative or description to explain about the artefacts produced in Robotic Modelling and Drone Skin Design.
 
-The hinge is intended to be printed in PLA and was modelled with an indicative colour of `#2686CA`.
+The hinge is intended to be printed in PLA and was modelled with an indicative colour of `#2686CA`. The colour tag renders a small coloured dot in Issues, Pull Requests and Discussions.
 
 Interact with the model using the mouse and mouse wheel. Drag, zoom or change view mode. Once interaction is finished, after a short while, the viewer will animate the camera around the model.
 
@@ -16720,3 +16720,9 @@ Example from [GitHub.com](https://docs.github.com/en/get-started/writing-on-gith
 **Note About Back Ticks**
 
 Attempting to quote the code in text _may_ cause problems. This is due to the use of ` ``` ` at the end of the STL file, this is also the escape sequence to indicate the end of a code block. In order to include ` ``` ` in the STL code being quoted, the entire STL code must be fenced with four back tick characters both above/at the top of and below/beneath the end of the STL instructions ` ```` `.
+
+## Get in Touch!
+
+When at [Staffordshire University](https://www.staffs.ac.uk/) I can be found in the Mellor Building, on College Road, in lab S005.
+
+
