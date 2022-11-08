@@ -16676,7 +16676,7 @@ The Markdown STL viewer provides a similar interface to the embedded viewer used
 3. At the end of the STL file contents, add the following code snippet ` ``` ` 
 
 **GitHub Provided Example**
-```
+````
 ```stl
 solid cube_corner
   facet normal 0.0 -1.0 0.0
@@ -16708,12 +16708,8 @@ solid cube_corner
     endloop
   endfacet
 endsolid
-````
-
 ```
-
 ````
-```
 
 Example from [GitHub.com](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams#creating-stl-3d-models)
 
