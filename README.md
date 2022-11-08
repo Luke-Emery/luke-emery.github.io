@@ -16666,6 +16666,10 @@ endsolid ShowerScreenHinge_NoGuides
 The above design, shown in the embedded [GitHub Markdown STL viewer](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams#creating-stl-3d-models), is a prototype hinge design intended for production using the Fused Filament Fabrication (FFF) method of 3D printing.
 Provided as an example file, this demo shows how the embedded viewer can be combined with other content such as a narrative or description to explain about the artefacts produced in Robotic Modelling and Drone Skin Design.
 
+The hinge is intended to be printed in PLA and was modelled with an indicative colour of `#2686CA`.
+
+Interact with the model using the mouse and mouse wheel. Drag, zoom or change view mode. Once interaction is finished, after a short while, the viewer will animate the camera around the model.
+
 The Markdown STL viewer provides a similar interface to the embedded viewer used in GitHub Pages websites, however adding it to a README is _fundamentally different_. 
 
 **Instructions**
@@ -16712,9 +16716,6 @@ endsolid
 ````
 
 Example from [GitHub.com](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams#creating-stl-3d-models)
-
-Interact with the model using the mouse and mouse wheel. Drag, zoom or change view mode. Once interaction is finished, after a short while, the viewer will animate the camera around the model.
-
 
 **Note About Back Ticks**
 
