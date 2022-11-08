@@ -16708,7 +16708,10 @@ solid cube_corner
     endloop
   endfacet
 endsolid
+````
 ```
+````
+
 Example from [GitHub.com](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams#creating-stl-3d-models)
 
 Interact with the model using the mouse and mouse wheel. Drag, zoom or change view mode. Once interaction is finished, after a short while, the viewer will animate the camera around the model.
