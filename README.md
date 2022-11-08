@@ -16717,4 +16717,4 @@ Interact with the model using the mouse and mouse wheel. Drag, zoom or change vi
 
 
 **Note About Back Ticks**
-Attempting to quote the code in text _may_ cause problems. This is due to the use of ` ``` ` at the end of the STL file, this is also the escape sequence to indicate the end of a code block. In order to include ` ``` ` in the STL code being quoted, it must be fenced with four back tick characters both above and below the three back tick characters which are to be kept ` ```` `.
+Attempting to quote the code in text _may_ cause problems. This is due to the use of ` ``` ` at the end of the STL file, this is also the escape sequence to indicate the end of a code block. In order to include ` ``` ` in the STL code being quoted, the entire STL code must be fenced with four back tick characters both above/at the top of and below/beneath the end of the STL instructions ` ```` `.
