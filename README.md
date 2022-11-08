@@ -16732,6 +16732,18 @@ When at [Staffordshire University](https://www.staffs.ac.uk/) I can be found in 
 - [x] Add markdown/GitHub Flavoured Markdown (GFM) to repository
 - [ ] Show students how to do this
 
+## Weeks so Far
+
+| Week | Title |
+| :--: | :--:  |
+| 1 | "Introduction" - Welcome to Robotic Modelling and Drone Skin Design |
+| 2 | "Gitting Started" - Creating an online portfolio |
+| 3 | "<Body> Building" - Presenting 3D Designs on the Web |
+| 4 | "Fusion - Food for Thought" - Introduction to 3D Modelling Concepts and Fusion 360 |
+| 5 | "This is Not a Drill" - Fusion 360 Solid Tools |
+| 6 | "Spick and Scan" - Technical Instruction for 3D Scanning (Rescheduled replaced with: Feedback and Markdown for README files) |
+| 7 | "Wheels in Motion (Capture)" - Technical Instruction for Motion Capture |
+
 ---
 
 <sup>Copyright (c) 2022 Luke Emery - All Rights Reserved</sup>
