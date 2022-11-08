@@ -16671,6 +16671,7 @@ The Markdown STL viewer provides a similar interface to the embedded viewer used
 **Instructions**
 1. In the chosen text editor (likely either the text editor in GitHub online or the GitHub.dev environment) add the following code snippet ` ```stl ` to the README
 2. Below that line of code, the contents of the STL (ASCII) file should be added.
+
    This can be achieved by opening the STL file in GitHub online and clicking the button titled "Raw", then copy the entire contents of that file and paste into the README
 3. At the end of the STL file contents, add the following code snippet ` ``` ` 
 
