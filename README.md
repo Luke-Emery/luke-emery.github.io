@@ -16670,7 +16670,45 @@ The Markdown STL viewer provides a similar interface to the embedded viewer used
 
 **Instructions**
 1. In the chosen text editor (likely either the text editor in GitHub online or the GitHub.dev environment) add the following code snippet ` ```stl ` to the README
-2. Below that line of code, the contents of the STL (ASCII) file should be added. This can be achieved by opening the STL file in GitHub online and clicking the button titled "Raw", then copy the entire contents of that file and paste into the README
+2. Below that line of code, the contents of the STL (ASCII) file should be added.
+⋅⋅⋅This can be achieved by opening the STL file in GitHub online and clicking the button titled "Raw", then copy the entire contents of that file and paste into the README
 3. At the end of the STL file contents, add the following code snippet ` ``` ` 
+
+**GitHub Provided Example**
+```
+```stl
+solid cube_corner
+  facet normal 0.0 -1.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 1.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+  facet normal 0.0 0.0 -1.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 1.0 0.0 0.0
+    endloop
+  endfacet
+  facet normal -1.0 0.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+      vertex 0.0 1.0 0.0
+    endloop
+  endfacet
+  facet normal 0.577 0.577 0.577
+    outer loop
+      vertex 1.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+endsolid
+```
+```
+Example from [GitHub.com](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams#creating-stl-3d-models)
 
 Interact with the model using the mouse and mouse wheel. Drag, zoom or change view mode. Once interaction is finished, after a short while, the viewer will animate the camera around the model.
