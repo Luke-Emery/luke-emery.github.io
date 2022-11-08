@@ -16666,4 +16666,11 @@ endsolid ShowerScreenHinge_NoGuides
 The above design, shown in the embedded [GitHub Markdown STL viewer](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams#creating-stl-3d-models), is a prototype hinge design intended for production using the Fused Filament Fabrication (FFF) method of 3D printing.
 Provided as an example file, this demo shows how the embedded viewer can be combined with other content such as a narrative or description to explain about the artefacts produced in Robotic Modelling and Drone Skin Design.
 
+The Markdown STL viewer provides a similar interface to the embedded viewer used in GitHub Pages websites, however adding it to a README is _fundamentally different_. 
+
+**Instructions**
+1. In the chosen text editor (likely either the text editor in GitHub online or the GitHub.dev environment) add the following code snippet ` ```stl ` to the README
+2. Below that line of code, the contents of the STL (ASCII) file should be added. This can be achieved by opening the STL file in GitHub online and clicking the button titled "Raw", then copy the entire contents of that file and paste into the README
+3. At the end of the STL file contents, add the following code snippet ` ``` ` 
+
 Interact with the model using the mouse and mouse wheel. Drag, zoom or change view mode. Once interaction is finished, after a short while, the viewer will animate the camera around the model.
