@@ -16727,10 +16727,10 @@ When at [Staffordshire University](https://www.staffs.ac.uk/) I can be found in 
 
 ## To Do
 
-[x] Create repository for website
-[x] Add artefacts/assets and provide narrative
-[x] Add markdown/GitHub Flavoured Markdown (GFM) to repository
-[ ] Show students how to do this
+- [x] Create repository for website
+- [x] Add artefacts/assets and provide narrative
+- [x] Add markdown/GitHub Flavoured Markdown (GFM) to repository
+- [ ] Show students how to do this
 
 ---
 
