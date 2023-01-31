@@ -16744,6 +16744,12 @@ When at [Staffordshire University](https://www.staffs.ac.uk/) I can be found in 
 | 5 | "This is Not a Drill" - Fusion 360 Solid Tools |
 | 6 | "Spick and Scan" - Technical Instruction for 3D Scanning (Rescheduled replaced with: Feedback and Markdown for README files) |
 | 7 | "Wheels in Motion (Capture)" - Technical Instruction for Motion Capture |
+| 8 | "I Got a Feeling" - Technical Instruction for Haptic Modelling |
+| 9 | "Spick and Scan" - Technical Instruction for 3D Scanning (Rescheduled) |
+|10 | "Have You Tried Turning It Off and On Again" - Support and Use of Equipment |
+|11 | "RMaDSD and the 3D Factory" - Technical Instruction for 3D Factory |
+|12 | "Smooth(er) Operator" - Introduction to Blender |
+|13 | "Blender and Everything but the Kitchen Sink" - Additional Useful Tools |
 
 ---
 
