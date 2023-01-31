@@ -16753,4 +16753,4 @@ When at [Staffordshire University](https://www.staffs.ac.uk/) I can be found in 
 
 ---
 
-<sup>Copyright (c) 2022 Luke Emery - All Rights Reserved</sup>
+<sup>Copyright © 2022-2023 Luke Emery - All Rights Reserved</sup>
