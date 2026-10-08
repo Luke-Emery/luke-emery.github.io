@@ -3,7 +3,7 @@
 	By Luke Emery | staffs.ac.uk
 	Copyright (c) 2022-2026 Luke Emery - All Rights Reserved
 -->
-![Computer Vision Banner](/assets/images/BB_Banner_RMaDSD@4x.png)
+![Computer Vision Banner](/assets/images/BB_Banner_RMaDSD_ULTRA@600x.png)
 
 # Home of Additional Resources
 This repository started life as an example repo for hosting GitHub Pages for RMaDSD and is now used to host web content for modules. The website contained within this repository can be found at: [luke-emery.github.io](https://luke-emery.github.io).
